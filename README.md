@@ -1,4 +1,4 @@
-# innomaticsInternshipTask2
+<img width="1710" alt="Screenshot 2025-02-09 at 8 56 59 PM" src="https://github.com/user-attachments/assets/a77cfd14-f9cb-4e58-9e52-30adc562a0d6" /># innomaticsInternshipTask2
 
 Brewed Awakening Coffee Shop Website
 Welcome to the Brewed Awakening Coffee Shop Website project! This is a fully responsive website designed to showcase the offerings of a coffee shop, including its menu, company information, and contact details. The project was developed using HTML and CSS, with a focus on responsive design and modern styling.
@@ -65,7 +65,9 @@ Desktop View
 
 Menu Section
 
-![Uploading Screenshot 2025-02-09 at 8.56.59 PM.png…]()
+<img width="1710" alt="Screenshot 2025-02-09 at 8 56 59 PM" src="https://github.com/user-attachments/assets/75dfe369-c19e-4b0a-ba74-4b6b4a989ca7" />
+
+
 
 
 Contributing
